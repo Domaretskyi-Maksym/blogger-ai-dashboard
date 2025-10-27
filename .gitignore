@@ -81,3 +81,5 @@ dataSources.local.xml
 .vscode/settings.json
 .vscode/launch.json
 .vscode/tasks.json
+
+/src/generated/prisma
